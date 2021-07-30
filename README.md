@@ -1,2 +1,2 @@
-# HealthDiary-
-Projeto acadêmico, Site 
+# ProjetoIntegradoIV
+Projeto feito com sprint bot e postgresQL.
